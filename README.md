@@ -1,6 +1,8 @@
 # user-stories
 user stories for tools in the DataPLANT stack via github issues
 
+See the stories here: https://github.com/nfdi4plants/user-stories/issues
+
 ## format
 
 user stories follow a simple format (see for example https://www.atlassian.com/agile/project-management/user-stories):
