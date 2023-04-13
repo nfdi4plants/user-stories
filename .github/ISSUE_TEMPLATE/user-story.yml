@@ -25,7 +25,7 @@ body:
         <want to>
     validations:
       required: true
-        - type: input
+  - type: input
     id: story-goal
     attributes:
       label: "So that"
