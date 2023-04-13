@@ -1,7 +1,6 @@
-name: Bug Report
-description: File a bug report
+name: User story
+description: Create a new user story
 title: "[Story]: "
-labels: ["bug", "triage"]
 body:
   - type: markdown
     attributes:
