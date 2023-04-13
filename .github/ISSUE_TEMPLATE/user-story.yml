@@ -1,0 +1,21 @@
+name: Bug Report
+description: File a bug report
+title: "[Story]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this user story!
+        
+  - type: input
+    id: story
+    attributes:
+      label: Contact Details
+      description: User stories follow a simple template. For more information, take a look at the readme: https://github.com/nfdi4plants/user-stories/tree/main#readme
+      placeholder: |
+        As a **<persona>**, 
+        I **<want to>**, 
+        **<so that>**.
+    validations:
+      required: true
