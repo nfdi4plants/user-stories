@@ -12,7 +12,7 @@ body:
     id: story
     attributes:
       label: Contact Details
-      description: User stories follow a simple template. For more information, take a look at the readme: https://github.com/nfdi4plants/user-stories/tree/main#readme
+      description: "User stories follow a simple template. For more information, take a look at the readme: https://github.com/nfdi4plants/user-stories/tree/main#readme"
       placeholder: |
         As a **<persona>**, 
         I **<want to>**, 
